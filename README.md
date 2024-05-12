@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @VlosyrosDev
 - 👀 I’m interested in Gamedev and Pixelart
+- 🌱 I'm currently working a metroidvania named Saharul.
 - 📫 You can contact me on Discord: _vlosyros
 
 <!---
