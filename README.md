@@ -1,4 +1,4 @@
-- Interested in Gamedev.
+- Hobbyist gamedev.
 - Currently working a metroidvania named Saharul.
 - You can contact me on Discord: _vlosyros
 
