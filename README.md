@@ -1,4 +1,5 @@
 - Hobbyist gamedev.
+- Professional procastinator.
 - Currently working a metroidvania named Saharul.
 - You can contact me on Discord: _vlosyros
 
