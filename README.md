@@ -1,7 +1,6 @@
 - Hobbyist gamedev.
 - Professional procastinator.
 - Currently working a metroidvania named Saharul.
-- You can contact me on Discord: _vlosyros
 
 <!---
 VlosyrosDev/VlosyrosDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
